@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# main.py - simple Python code for Hello World example
+# main.py - simple Python code for Hello World
 
 def main():
     print("Hello, World!")
